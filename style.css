@@ -1,0 +1,30 @@
+* {
+    margin: 15;
+    padding: 15;
+}
+
+.inputClass {
+    background-color: #E0FFFF;
+    }
+.sendForm {
+    width: 212px;
+    height: 45px;
+    color: #212121;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3.6px;
+    box-shadow: 0 2px 5px 1px rgba(33, 33, 33, 0.35);
+    border-radius: 23px;
+    background-color: #E0FFFF;
+}
+.tariffs {
+    border-collapse: collapse,
+    background-color: #E0FFFF;
+    caption-side: bottom;
+    text-align: right;
+    padding: 10px 0;
+    font-size: 14px;
+}
